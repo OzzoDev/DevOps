@@ -1,0 +1,20 @@
+{
+  "name": "hello-devops",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OzzoDev/DevOps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OzzoDev/DevOps/issues"
+  },
+  "homepage": "https://github.com/OzzoDev/DevOps#readme",
+  "description": ""
+}
