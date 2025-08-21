@@ -1,7 +1,7 @@
 name: Info Workflow
 
 on:
-  push:
+  pull_request:
     branches:
       - main
 
